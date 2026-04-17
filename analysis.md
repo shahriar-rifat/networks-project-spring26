@@ -23,7 +23,8 @@ A likely reason is that Frankfurt is not itself a submarine cable landing point[
 
 This helps explain why Frankfurt appears less efficient than London. The extra inland backhaul, together with routing policies based on peering and congestion rather than pure geographic shortest path, can increase RTT beyond the simple Boston to Frankfurt great-circle baseline [2][3]. Therefore, the high ratio does not necessarily indicate weak infrastructure in Frankfurt. Instead, it reflects the fact that Frankfurt is a major inland exchange hub served through coastal cable landings and terrestrial backhaul [2][3].
 
-Sources:
+## References
+
 [1] submarinecablemap.com
 [2] DE-CIX Frankfurt, “Connect to the world’s leading IX.”
 [3] TeleGeography, Submarine Cable Map, including Atlantic Crossing-1 landing points.
