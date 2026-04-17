@@ -26,7 +26,7 @@ This helps explain why Frankfurt appears less efficient than London. The extra i
 ## References
 
 [1] submarinecablemap.com.  
-[2] DE-CIX Frankfurt, “Connect to the world’s leading IX.”
+[2] DE-CIX Frankfurt, “Connect to the world’s leading IX.”  
 [3] TeleGeography, Submarine Cable Map, including Atlantic Crossing-1 landing points.
 
 ## 2. Closest to the theoretical minimum
